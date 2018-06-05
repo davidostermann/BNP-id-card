@@ -1,0 +1,7 @@
+.id-card {
+  display: flex;
+}
+
+.img-card, .txt-card {
+  padding: 0 1em;
+}
